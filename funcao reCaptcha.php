@@ -22,3 +22,14 @@
 	
 ?>
 <script src='https://www.google.com/recaptcha/api.js'></script>
+<!--
+<form method="post">
+	<p> <input type="text" name="nome" /> </p>
+	<div class="g-recaptcha" data-sitekey="6LfJRjIUAAAAADaDE41t8Y4andx2Dp1ISJQ7CGA9"></div>
+	<p> <input type="submit" name="submit"/> </p>
+</form>
+-->
+<!--
+A Div que está no parágrafo já vem dada no GoogleRecaptcha. é só copiar de lá e colar no formulário.
+Colocando onde deseja que o recaptcha esteja, geralmente no final do formulário
+-->
